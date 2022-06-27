@@ -7,6 +7,8 @@
 + [Nature](https://www.nature.com/)
 + [Science](https://www.science.org/)
 + [IAU](https://www.iau.org/); [AAS](https://aas.org/); [APS](https://www.aps.org/); [EAS](https://eas.unige.ch/index.jsp); [CAS](http://astronomy.pmo.cas.cn/)
++ [taotie](https://dr-guangtou.github.io/taotie/)
++ [AstroBetter](https://www.astrobetter.com/)
 + [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 
 ## Promotion
@@ -17,6 +19,7 @@
 + [space.com](https://www.space.com/news)
 + [scitechdaily.com/news/space](https://scitechdaily.com/news/space/)
 + [Universe Today](https://www.universetoday.com/)
++ [天文理科人](https://astroleaks.lamost.org/)
 
 ## Exoplanetary science
 + [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
